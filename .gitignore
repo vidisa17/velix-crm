@@ -1,0 +1,13 @@
+.env
+.env.local
+.env.production
+__pycache__/
+*.pyc
+venv/
+node_modules/
+.next/
+out/
+data/
+backups/
+.DS_Store
+Thumbs.db

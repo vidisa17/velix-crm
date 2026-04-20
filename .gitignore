@@ -11,3 +11,6 @@ data/
 backups/
 .DS_Store
 Thumbs.db
+frontend/public/*
+frontend/public/*
+!frontend/public/index.html
